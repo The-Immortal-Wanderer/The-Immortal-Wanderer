@@ -4,7 +4,6 @@
 Hi there! I'm **Hammad Masood Mirza**, an AI student at FAST NUCES with a passion for deep technical exploration and creative problem solving. I enjoy diving into complex ideas until they make complete sense and finding practical ways to turn new knowledge into working systems. My experience spans AI engineering and applied research—from developing full stack UAV dependability platforms and multi agent crisis simulators to building diffusion based image generation pipelines. I have created systems that can think, adapt, and coordinate under uncertainty using a mix of classical algorithms, reinforcement learning, and reasoning augmented LLMs.
 
 - 🌟 **Focus Areas**: AI Engineering, Reasoning Systems, Multi-Agent Coordination, Generative & Diffusion Models.
-- 📈 **Contributions**: 73 commits in the last year (as of November 2025).
 - 🎯 **Current Role**: Machine Learning Engineer Intern at NCRA-UAV Dependability Lab.
 
 ## 🚀 Tech Stack
